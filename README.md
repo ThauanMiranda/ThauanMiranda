@@ -2,7 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/ThauanMiranda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThauanMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=ThauanMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanMiranda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 
@@ -27,5 +30,3 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanMiranda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
