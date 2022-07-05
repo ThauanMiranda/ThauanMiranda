@@ -1,6 +1,6 @@
 ### Bem-vindos ao meu perfil
 
-<div align="center">
+<div align=>
   <a href="https://github.com/ThauanMiranda">
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=ThauanMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
