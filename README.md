@@ -1,4 +1,4 @@
-### Bem-vindos ao meu perfil
+### Bem-vindos ao meu perfil!
 
 <div align=>
   <a href="https://github.com/ThauanMiranda">
