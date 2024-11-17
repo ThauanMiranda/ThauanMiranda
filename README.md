@@ -17,8 +17,6 @@
 
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="C#-logo" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET-logo" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="MySQL" height="45" width="80" src="https://logodownload.org/wp-content/uploads/2019/12/totvs-logo-2048x603.png">
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
